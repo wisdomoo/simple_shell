@@ -161,5 +161,4 @@ Node that in the second line the *Ctrl+C*  is typed
 
 ## Authors:
 
-- *Robinson Montes* - [@mecomonteshbtn](https://github.com/mecomonteshbtn) 
-- *Nicolás Zárate*  - [@Nicolanz](https://github.com/Nicolanz)
+- * Abrahaley Hagos,Okoroafor Wisdom.O
